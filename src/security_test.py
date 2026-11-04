@@ -13,3 +13,4 @@ def run_command(user_input: str):
         capture_output=True,
         text=True,
     )
+
